@@ -1,0 +1,27 @@
+{
+  "name": "nlw2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardochamp1/Proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardochamp1/Proffy/issues"
+  },
+  "homepage": "https://github.com/eduardochamp1/Proffy#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
